@@ -6,10 +6,10 @@ title: Publications
 Check [Google Scholar](https://scholar.google.co.in/citations?user=DQddccYAAAAJ) for an exhaustive list of publications.  
 
 * Efficient Domain Generalization via Common-Specific Low-Rank Decomposition.  
-  ICML 2020 [[pdf](https://arxiv.org/abs/2003.12815]][[code](https://github.com/vihari/CSD/)]  
+  ICML 2020 [[pdf](https://arxiv.org/abs/2003.12815)][[code](https://github.com/vihari/CSD/)]  
   When a model is trained on multiple sources, the learned parameters are composed of both shared and domain-specific components. 
   While the domain-specific components improve the performance on the seen train domains, they impede generalization to new domains. 
-  We propose a method called CSD, as a replacement for the final linear layer, that identifies and removes the specific components, thereby retaining only the components common across all the domains.   Our method is simple and efficient and yet is competitive.
+  We propose a method called CSD, as a replacement for the final linear layer, that identifies and removes the specific components, thereby retaining only the components common across all the domains.   Our method is simple, efficient and yet is competitive.
 
 * Topic Sensitive Attention on Generic Corpora Corrects Sense Bias in Pretrained Embeddings. 
   ACL 2019 [[pdf](https://arxiv.org/abs/1906.02688)][[talk](https://github.com/vihari/focussed_embs)][[slides](https://vimeo.com/384490539">talk</a>][<a href="https://docs.google.com/presentation/d/1cEiov879145R6oOBESjif2PcsNXKljZPORegf6_fEMU/edit?usp=sharing)]  
