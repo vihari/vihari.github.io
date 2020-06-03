@@ -5,10 +5,11 @@ title: Publications
 
 ### Research Theme
 This is an exciting time to be working in AI. We are witnessing close to human performance on range of learning tasks. 
-However, the learning systems are far from closing the gap with humans for various reasons. Lack of robustness due to changing environment (domain) is one.
-For example, a self-driving car that is trained to drive on clear days deployed on a rainy, foggy or snowy day. Or a changing accents for an Automatic Speech Recognition engine. 
+However, the learning systems are far from closing the gap with human-intelligence for various reasons. Lack of robustness under changing environment (domain) is one.
+For example, a self-driving car that is trained to drive on clear days deployed on a rainy day; Or changing accents for an Automatic Speech Recognition engine. 
+I work on fixing the robustness gap under three broad settings shown below. 
 
-* **Domain Generaliation (DG)**: When the target environment/domain is unknown, you prepare for the worst when training on the available source domains. [3][1]
+* **Domain Generaliation (DG)**: When the target domain is unknown, you prepare for the worst when training on the available source domains. [3][1]
 * **Domain Transfer**: If a representative target domain is provided, how best to transfer the knowledge for optimal performance on the target? [2]
 * **Supervised Robustness**: What if we know, at a high-level, the nature of target domains? This is in relation to the DG problem, unlike DG not all components of domain variation are important. 
 
