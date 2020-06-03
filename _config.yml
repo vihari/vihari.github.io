@@ -1,13 +1,13 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: Vihari Piratla
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: PhD student, IIT Bombay
 
 # Your name to show in the footer
-author: Some Person
+author: Vihari
 
 # --- List of links in the navigation bar --- #
 
@@ -38,13 +38,13 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "viharipiratla@gmail.com"
+  github: vihari
+  twitter: p_vihari
+  linkedin: vihari-piratla-b4404b63/
+  stackoverflow: 1664812/vihari-piratla
   rss: true
 #  reddit: yourname
-#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
