@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+subtitle: Publications
 ---
 
 ### Research Theme
