@@ -17,7 +17,7 @@ Check [Google Scholar](https://scholar.google.co.in/citations?user=DQddccYAAAAJ)
 <a name="dg_for_dr"></a>
 * **Untapped Potential of Data Augmentation: A Domain GeneralizationViewpoint**
   **Work In Progress** [[pdf](../assets/dg_for_dr.pdf)].       
-  In this work, we argue why plain augmentation leads to shallow parameter sharing between the original and augmented examples. We show how even the SoTA augmentation methods could still overfit on augmentations and their scope for mitigating this overfit by employing domain generalization techniques.  
+  We argue why plain augmentation leads to shallow parameter sharing between the original and augmented examples. We show how even the SoTA augmentation methods could still overfit on augmentations and the scope for mitigating this overfit by employing domain generalization techniques.  
 <a name="csd"></a>
 * **Efficient Domain Generalization via Common-Specific Low-Rank Decomposition.**  
   **ICML 2020** [[pdf](https://arxiv.org/abs/2003.12815)][[code](https://github.com/vihari/CSD/)]  
