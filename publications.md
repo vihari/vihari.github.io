@@ -9,11 +9,15 @@ However, the learning systems are far from closing the gap with human-intelligen
 For example, a self-driving car that is trained to drive on clear days deployed on a rainy day; Or changing accents for an Automatic Speech Recognition engine. 
 I work on fixing the robustness gap under three broad settings shown below. 
 
-* **Domain Generaliation (DG)**: When the target domain is unknown, you prepare for the worst when training on the available source domains. [[ICLR18](#crossgrad)][[ICML20](#csd)]
+* **Domain Generaliation (DG)**: When the target domain is unknown, you prepare for the worst when training on the available source domains. [[ICLR18](#crossgrad)][[ICML20](#csd)][[PP20a](#dg_for_dr)]
 * **Domain Transfer**: If a representative target domain is provided, how best to transfer the knowledge for optimal performance on the target? [[ACL19](#srcsel)]
 * **Supervised Robustness**: What if we know, at a high-level, the nature of target domains without access to any representative instances? 
 
 Check [Google Scholar](https://scholar.google.co.in/citations?user=DQddccYAAAAJ) for an exhaustive list of publications.  
+<a name="dg_for_dr"></a>
+* **Untapped Potential of Data Augmentation: A Domain GeneralizationViewpoint**
+  **Work In Progress** [[pdf](./assets/dg_for_dr.pdf)]
+  In this work, we argue why plain augmentation leads to shallow parameter sharing between the original and augmented examples. We show how even the SoTA augmentation methods could still overfit on augmentations and their scope for mitigating this overfit by employing domain generalization techniques.
 <a name="csd"></a>
 * **Efficient Domain Generalization via Common-Specific Low-Rank Decomposition.**  
   **ICML 2020** [[pdf](https://arxiv.org/abs/2003.12815)][[code](https://github.com/vihari/CSD/)]  
