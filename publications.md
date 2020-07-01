@@ -16,7 +16,7 @@ I work on fixing the robustness gap under three broad settings shown below.
 Check [Google Scholar](https://scholar.google.co.in/citations?user=DQddccYAAAAJ) for an exhaustive list of publications.  
 <a name="dg_for_dr"></a>
 * **Untapped Potential of Data Augmentation: A Domain Generalization Viewpoint**
-  **Work In Progress** [[pdf](../assets/dg_for_dr.pdf)].       
+  **ICML UDL Workshop 2020** [[pdf](../assets/dg_for_dr.pdf)].       
   We argue why plain augmentation leads to shallow parameter sharing between the original and augmented examples. We show how even the SoTA augmentation methods could still overfit on augmentations and the scope for mitigating this overfit by employing domain generalization techniques.  
 <a name="csd"></a>
 * **Efficient Domain Generalization via Common-Specific Low-Rank Decomposition.**  
