@@ -9,7 +9,7 @@ However, the learning systems are far from closing the gap with human-intelligen
 For example, a self-driving car that is trained to drive on clear days deployed on a rainy day; Or changing accents for an Automatic Speech Recognition engine. 
 I work on fixing the robustness gap under three broad settings shown below. 
 
-* **Domain Generaliation (DG)**: When the target domain is unknown, you prepare for the worst when training on the available source domains. [[ICLR18](#crossgrad)][[ICML20](#csd)][[PP20a](#dg_for_dr)]
+* **Domain Generaliation (DG)**: When the target domain is unknown, you prepare for the worst when training on the available source domains. [[ICLR18](#crossgrad)][[ICML20](#csd)][[ICML20a](#dg_for_dr)]
 * **Domain Transfer**: If a representative target domain is provided, how best to transfer the knowledge for optimal performance on the target? [[ACL19](#srcsel)]
 * **Supervised Robustness**: What if we know, at a high-level, the nature of target domains without access to any representative instances? 
 
