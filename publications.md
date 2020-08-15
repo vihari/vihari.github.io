@@ -20,7 +20,7 @@ Check [Google Scholar](https://scholar.google.co.in/citations?user=DQddccYAAAAJ)
   We argue why plain augmentation leads to shallow parameter sharing between the original and augmented examples. We show how even the SoTA augmentation methods could still overfit on augmentations and the scope for mitigating this overfit by employing domain generalization techniques.  
 <a name="csd"></a>
 * **Efficient Domain Generalization via Common-Specific Low-Rank Decomposition.**  
-  **ICML 2020** [[pdf](https://arxiv.org/abs/2003.12815)][[code](https://github.com/vihari/CSD/)][[talk](https://icml.cc/virtual/2020/poster/6528)][[slides](https://docs.google.com/presentation/d/1x0MXQrutH1XJunhCPPqaHhWnqn49fZcPyMyJEdGDWv4/edit?usp=sharing)][[talk](https://icml.cc/virtual/2020/poster/6528)]  
+  **ICML 2020** [[pdf](https://arxiv.org/abs/2003.12815)][[code](https://github.com/vihari/CSD/)][[talk](https://icml.cc/virtual/2020/poster/6528)][[slides](https://docs.google.com/presentation/d/1x0MXQrutH1XJunhCPPqaHhWnqn49fZcPyMyJEdGDWv4/edit?usp=sharing)]    
   When a model is trained on multiple sources, the learned parameters are composed of both shared and domain-specific components. 
   While the domain-specific components improve the performance on the seen train domains, they impede generalization to new domains. 
   We propose a method called CSD, as a replacement for the final linear layer, that identifies and removes the specific components, thereby retaining only the components common across all the domains.   Our method is simple, efficient and yet competitive.  
