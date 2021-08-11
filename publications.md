@@ -6,14 +6,19 @@ title: Publications
 ### Research Theme
 This is an exciting time to be working in AI. We are witnessing close to human performance on range of learning tasks. 
 However, the learning systems are far from closing the gap with human-intelligence for various reasons. Lack of robustness under changing environment (domain) is one.
-For example, a self-driving car that is trained to drive on clear days deployed on a rainy day; Or changing accents for an Automatic Speech Recognition engine. 
+For example, a self-driving car that is trained to drive on clear days deployed on a rainy day; Or Automatic Speech Recognition engine trained to recognize native-english speech when deployed on foreign-english speakers. 
 I work on fixing the robustness gap under three broad settings shown below. 
 
 * **Domain Generaliation (DG)**: When the target domain is unknown, you prepare for the worst when training on the available source domains. [[ICLR18](#crossgrad)][[ICML20](#csd)][[ICML20a](#dg_for_dr)]
 * **Domain Transfer**: If a representative target domain is provided, how best to transfer the knowledge for optimal performance on the target? [[ACL19](#srcsel)]
-* **Supervised Robustness**: What if we know, at a high-level, the nature of target domains without access to any representative instances? 
+* **Supervised Robustness**: What if we know, at a high-level, the nature of target domains without access to any representative instances? [[EMNLP20](#topicsig)]
 
 Check [Google Scholar](https://scholar.google.co.in/citations?user=DQddccYAAAAJ) for an exhaustive list of publications.  
+<a name="topicsig"></a>
+* **NLP Service APIs and Models for Efficient Registration of New Clients**.   
+  **EMNLP Findings 2020** [[pdf](https://arxiv.org/pdf/2010.01526.pdf)].   
+  Prediction service APIs are expected to cater millions of client distributions. Adapting to each client is not scalable for computation and storage concerns. 
+  We propose an on-the-fly adaptation technique using client side corpus signature.    
 <a name="dg_for_dr"></a>
 * **Untapped Potential of Data Augmentation: A Domain Generalization Viewpoint**.   
   **ICML UDL Workshop 2020** [[pdf](https://arxiv.org/abs/2007.04662)][[slides](https://docs.google.com/presentation/d/1IZuAc9GKrB2WO00kWOo1FOMs8sGBWe7XZLrhfZNHAJY/edit?usp=sharing)].       
