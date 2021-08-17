@@ -16,7 +16,7 @@ I work on fixing the robustness gap under three broad settings shown below.
 Check [Google Scholar](https://scholar.google.co.in/citations?user=DQddccYAAAAJ) for an exhaustive list of publications.  
 <a name="accsurf"></a>
 * **Active Assessment of Prediction Services as Accuracy Surface Over Attribute Combinations**.  
-  *Under Review*.  
+  *Under Review* [[pdf](https://arxiv.org/pdf/2108.06514.pdf)]  
   We argue that Prediction Services should report performance on attribute combinations characterizing a client's utility, and go beyond the leaderboards and standard bechmarks. How can we efficiently estimate performance over combinatorially large attribute combinations and address the corresponding label supervision cost? Check out our paper to know more.      
 <a name="topicsig"></a>
 * **NLP Service APIs and Models for Efficient Registration of New Clients**.   
