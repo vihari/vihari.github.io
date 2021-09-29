@@ -4,10 +4,9 @@ title: Publications
 ---
 
 ### Research Theme
-This is an exciting time to be working in AI. We are witnessing close to human performance on range of learning tasks. 
-However, the learning systems are far from closing the gap with human-intelligence for various reasons. Lack of robustness under changing environment (domain) is one.
-For example, a self-driving car that is trained to drive on clear days deployed on a rainy day; Or Automatic Speech Recognition engine trained to recognize native-english speech when deployed on foreign-english speakers. 
-I work on fixing the robustness gap under three broad settings shown below. 
+I work on making learning systems robust to changing environments (domain).
+Some examples of domain shift are when a self-driving car that is trained to drive on clear days deployed on a rainy day, or Automatic Speech Recognition engine trained on native-english speech when deployed on foreign speakers. 
+My research has three broad themes below. 
 
 * **Domain Generaliation (DG)**: When the target domain is unknown, you prepare for the worst when training on the available source domains. [[ICLR18](#crossgrad)][[ICML20](#csd)][[ICML20a](#dg_for_dr)]
 * **Domain Transfer**: If a representative target domain is provided, how best to transfer the knowledge for optimal performance on the target? [[ACL19](#srcsel)]
