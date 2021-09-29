@@ -47,5 +47,5 @@ Check [Google Scholar](https://scholar.google.co.in/citations?user=DQddccYAAAAJ)
 <a name="crossgrad"></a>
 * **Generalizing across domains via cross-gradient training.**   
   **ICLR 2018** [[pdf](https://arxiv.org/pdf/1804.10745.pdf)][[code](https://github.com/vihari/crossgrad)]   
-  with *S Shankar, S. Chaudhuri, P. Jyothi, S Chakrabarti, S Sarawagi*
+  with *S Shankar, S. Chaudhuri, P. Jyothi, S Chakrabarti, S Sarawagi*   
   We can avoid overfitting on the train domains by hallucinating new unseen domains. We propose CrossGrad that augments label consistent examples from new domains that helps in domain generalization.
