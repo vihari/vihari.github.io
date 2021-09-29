@@ -11,12 +11,12 @@ I work on fixing the robustness gap under three broad settings shown below.
 
 * **Domain Generaliation (DG)**: When the target domain is unknown, you prepare for the worst when training on the available source domains. [[ICLR18](#crossgrad)][[ICML20](#csd)][[ICML20a](#dg_for_dr)]
 * **Domain Transfer**: If a representative target domain is provided, how best to transfer the knowledge for optimal performance on the target? [[ACL19](#srcsel)]
-* **Machine Learning as a Service**: Research challenges abound when serving millions of clients through Prediction APIs. [[AAA21](#accsurf)][[EMNLP20](#topicsig)]
+* **Machine Learning as a Service**: Research challenges abound when serving millions of clients through Prediction APIs. [[NeurIPS21](#accsurf)][[EMNLP20](#topicsig)]
 
 Check [Google Scholar](https://scholar.google.co.in/citations?user=DQddccYAAAAJ) for an exhaustive list of publications.  
 <a name="accsurf"></a>
 * **Active Assessment of Prediction Services as Accuracy Surface Over Attribute Combinations**.  
-  *Under Review* [[pdf](https://arxiv.org/pdf/2108.06514.pdf)]  
+  NeurIPS 2021 [[pdf](https://arxiv.org/pdf/2108.06514.pdf)]  
   We argue that Prediction Services should report performance on attribute combinations characterizing a client's utility, and go beyond the leaderboards and standard bechmarks. How can we efficiently estimate performance over combinatorially large attribute combinations and address the corresponding label supervision cost? Check out our paper to know more.      
 <a name="topicsig"></a>
 * **NLP Service APIs and Models for Efficient Registration of New Clients**.   
