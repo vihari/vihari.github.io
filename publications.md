@@ -10,7 +10,7 @@ My research has three broad themes below.
 
 * **Domain Generaliation (DG)**: Can we exploit the natural variation between the train domains and zero-shot generalize to unseen domains? [[ICLR18](#crossgrad)][[ICML20](#csd)][[ICML20a](#dg_for_dr)]
 * **Domain Transfer**: How best to transfer a model to a target domain using any available resources from the target? [[ACL19](#srcsel)]
-* **Machine Learning as a Service**: How should we evaluate, adapt when serving millions of clients through Prediction APIs? [[NeurIPS21](#accsurf)][[EMNLP20](#topicsig)]
+* **Machine Learning as a Service**: How should we evaluate, adapt, when serving millions of clients through Prediction APIs? [[NeurIPS21](#accsurf)][[EMNLP20](#topicsig)]
 
 Check [Google Scholar](https://scholar.google.co.in/citations?user=DQddccYAAAAJ) for an exhaustive list of publications.  
 <a name="accsurf"></a>
