@@ -8,9 +8,9 @@ I work on making learning systems robust to changing environments (domain).
 Some examples of domain shift are when a self-driving car that was trained to drive on clear days deployed on a rainy day, or when an Automatic Speech Recognition engine trained on native-english speech deployed on foreign speakers. 
 My research has three broad themes below. 
 
-* **Domain Generaliation (DG)**: When the target domain is unknown, you prepare for the worst when training on the available source domains. [[ICLR18](#crossgrad)][[ICML20](#csd)][[ICML20a](#dg_for_dr)]
-* **Domain Transfer**: If a representative target domain is provided, how best to transfer the knowledge for optimal performance on the target? [[ACL19](#srcsel)]
-* **Machine Learning as a Service**: Research challenges abound when serving millions of clients through Prediction APIs. [[NeurIPS21](#accsurf)][[EMNLP20](#topicsig)]
+* **Domain Generaliation (DG)**: Can we exploit the natural variation between the train domains and zero-shot generalize to unseen domains? [[ICLR18](#crossgrad)][[ICML20](#csd)][[ICML20a](#dg_for_dr)]
+* **Domain Transfer**: How best to transfer a model to a target domain using any available resources from the target? [[ACL19](#srcsel)]
+* **Machine Learning as a Service**: How should we evaluate, adapt when serving millions of clients through Prediction APIs? [[NeurIPS21](#accsurf)][[EMNLP20](#topicsig)]
 
 Check [Google Scholar](https://scholar.google.co.in/citations?user=DQddccYAAAAJ) for an exhaustive list of publications.  
 <a name="accsurf"></a>
