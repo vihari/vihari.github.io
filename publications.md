@@ -5,7 +5,7 @@ title: Publications
 
 ### Research Theme
 I work on making learning systems robust to changing environments (domain).
-Some examples of domain shift are when a self-driving car that is trained to drive on clear days deployed on a rainy day, or when an Automatic Speech Recognition engine trained on native-english speech deployed on foreign speakers. 
+Some examples of domain shift are when a self-driving car that was trained to drive on clear days deployed on a rainy day, or when an Automatic Speech Recognition engine trained on native-english speech deployed on foreign speakers. 
 My research has three broad themes below. 
 
 * **Domain Generaliation (DG)**: When the target domain is unknown, you prepare for the worst when training on the available source domains. [[ICLR18](#crossgrad)][[ICML20](#csd)][[ICML20a](#dg_for_dr)]
