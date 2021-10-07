@@ -13,9 +13,14 @@ My research has three broad themes below.
 * **Machine Learning as a Service**: How should we evaluate, adapt, when serving millions of clients through Prediction APIs? [[NeurIPS21](#accsurf)][[EMNLP20](#topicsig)]
 
 Check [Google Scholar](https://scholar.google.co.in/citations?user=DQddccYAAAAJ) for an exhaustive list of publications.  
+* **Focus on the Common Good: Group Distributional Robustness Follows**.   
+  *Under review* [[pdf](https://arxiv.org/pdf/2110.02619.pdf)]   
+  with *P Netrapalli*, *S Sarawagi*   
+  When the train group sizes are highly disproportionate, how can we train such that we generalize well to all the groups irrespective of their training sizes? We found that by just focussing the training on the groups that improve performance on other groups as well as on self (common good) yield better group robustness.   
+
 <a name="accsurf"></a>
 * **Active Assessment of Prediction Services as Accuracy Surface Over Attribute Combinations**.  
-  NeurIPS 2021 [[pdf](https://arxiv.org/pdf/2108.06514.pdf)]  
+  **NeurIPS 2021** [[pdf](https://arxiv.org/pdf/2108.06514.pdf)]  
   with *S Chakrabarti*, *S Sarawagi*  
   We argue that Prediction Services should report performance on attribute combinations characterizing a client's utility, and go beyond the leaderboards and standard bechmarks. How can we efficiently estimate performance over combinatorially large attribute combinations and address the corresponding label supervision cost? Check out our paper to know more.      
 <a name="topicsig"></a>
