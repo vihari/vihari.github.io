@@ -10,14 +10,14 @@ My research has three broad themes below.
 
 * **Domain Generaliation (DG)**: Can we exploit the natural variation between the train domains and zero-shot generalize to unseen domains? [[ICLR18](#crossgrad)][[ICML20](#csd)][[ICML20a](#dg_for_dr)]
 * **Domain Transfer**: How best to transfer a model to a target domain using any available resources from the target? [[ACL19](#srcsel)]
-* **Machine Learning as a Service**: How should we evaluate, adapt, when serving millions of clients through Prediction APIs? [[NeurIPS21](#accsurf)][[EMNLP20](#topicsig)]
+* **Machine Learning as a Service**: How should we evaluate, adapt, when serving millions of clients through Prediction APIs? [[EMNLP20](#topicsig)][[NeurIPS21](#accsurf)][[CGD21](#cgd)]
 
 Check [Google Scholar](https://scholar.google.co.in/citations?user=DQddccYAAAAJ) for an exhaustive list of publications.  
+<a name="cgd"></a>
 * **Focus on the Common Good: Group Distributional Robustness Follows**.   
   *Under review* [[pdf](https://arxiv.org/pdf/2110.02619.pdf)]   
   with *P Netrapalli*, *S Sarawagi*   
   When the train group sizes are highly disproportionate, how can we train such that we generalize well to all the groups irrespective of their training sizes? We found that by just focussing the training on the groups that improve performance on other groups as well as on self (common good) yield better group robustness.   
-
 <a name="accsurf"></a>
 * **Active Assessment of Prediction Services as Accuracy Surface Over Attribute Combinations**.  
   **NeurIPS 2021** [[pdf](https://arxiv.org/pdf/2108.06514.pdf)]  
