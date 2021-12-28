@@ -4,13 +4,14 @@ title: Publications
 ---
 
 ### Research Theme
-I work on making learning systems robust to changing environments (domain).
-Some examples of domain shift are when a self-driving car that was trained to drive on clear days deployed on a rainy day, or when an Automatic Speech Recognition engine trained on native-english speech deployed on foreign speakers. 
+I am interested in studying the performance of Machine Learning systems beyond the well-represented training distributions. Towards this objective, I work on generalization, evaluation and adaptation aspects of ML algorithms on unseen distributions.
+An example of domain shift in practice is when an entity recognizer trained on news articles is used on emails or when an Automatic Speech Recognition engine trained on native-english speaker is deployed on foreign speakers. 
+
 My research has three broad themes below. 
 
-* **Domain Generaliation (DG)**: Can we exploit the natural variation between the train domains and zero-shot generalize to unseen domains? [[ICLR18](#crossgrad)][[ICML20](#csd)][[ICML20a](#dg_for_dr)]
-* **Domain Transfer**: How best to transfer a model to a target domain using any available resources from the target? [[ACL19](#srcsel)]
-* **Machine Learning as a Service**: How should we train, evaluate, adapt, when serving millions of clients through Prediction APIs? [[EMNLP20](#topicsig)][[NeurIPS21](#accsurf)][[CGD21](#cgd)]
+* **Assessment**: How can we declare or predict test time failures? [[NeurIPS21](#accsurf)]
+* **Generaliation**: Algorithms for training domain robust models: domain generalization. Can we exploit the natural variation between the train domains and zero-shot generalize to unseen domains? [[ICLR18](#crossgrad)][[ICML20](#csd)][[ICML20a](#dg_for_dr)][[CGD21](#cgd)]
+* **Adaptation**: Neither the (heavily-subscribed) service models nor the (hardware-deficient) client can afford standard fine-tuning. Can we adapt on the fly without parameter fine-tuning or labeled data? [[ACL19](#srcsel)] [[EMNLP20](#topicsig)]
 
 Check [Google Scholar](https://scholar.google.co.in/citations?user=DQddccYAAAAJ) for an exhaustive list of publications.  
 <a name="cgd"></a>
