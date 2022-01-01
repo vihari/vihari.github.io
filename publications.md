@@ -9,9 +9,9 @@ An example of domain shift in practice is when an entity recognizer trained on n
 
 My research has three broad themes below. 
 
-* **Assessment**: How can we declare or predict test time failures? [[NeurIPS21](#accsurf)]
 * **Generaliation**: Algorithms for training domain robust models: domain generalization. Can we exploit the natural variation between the train domains and zero-shot generalize to unseen domains? [[ICLR18](#crossgrad)][[ICML20](#csd)][[ICML20a](#dg_for_dr)][[CGD21](#cgd)]
 * **Adaptation**: Neither the (heavily-subscribed) service models nor the (hardware-deficient) client can afford standard fine-tuning. Can we adapt on the fly without parameter fine-tuning or labeled data? [[ACL19](#srcsel)] [[EMNLP20](#topicsig)]
+* **Assessment**: How can we declare or predict test time failures? [[NeurIPS21](#accsurf)]
 
 Check [Google Scholar](https://scholar.google.co.in/citations?user=DQddccYAAAAJ) for an exhaustive list of publications.  
 <a name="cgd"></a>
@@ -21,12 +21,12 @@ Check [Google Scholar](https://scholar.google.co.in/citations?user=DQddccYAAAAJ)
   When the train group sizes are highly disproportionate, how can we train such that we generalize well to all the groups irrespective of their training sizes? We found that by just focussing the training on the groups that improve performance on other groups as well as on self (common good) yield better group robustness.   
 <a name="accsurf"></a>
 * **Active Assessment of Prediction Services as Accuracy Surface Over Attribute Combinations**.  
-  **NeurIPS 2021** [[pdf](https://arxiv.org/pdf/2108.06514.pdf)]  
+  **NeurIPS 2021** [[pdf](https://arxiv.org/pdf/2108.06514.pdf)][[code](https://github.com/vihari/AAA)][[slides](https://docs.google.com/presentation/d/1cKjO5ROhr-PN_rwb0VTqKTye_ZKpW4Yy8XxX_Hz6CME/edit?usp=sharing)]  
   with *S Chakrabarti*, *S Sarawagi*  
   We argue that Prediction Services should report performance on attribute combinations characterizing a client's utility, and go beyond the leaderboards and standard bechmarks. How can we efficiently estimate performance over combinatorially large attribute combinations and address the corresponding label supervision cost? Check out our paper to know more.      
 <a name="topicsig"></a>
 * **NLP Service APIs and Models for Efficient Registration of New Clients**.   
-  **EMNLP Findings 2020** [[pdf](https://arxiv.org/pdf/2010.01526.pdf)].   
+  **EMNLP Findings 2020** [[pdf](https://arxiv.org/pdf/2010.01526.pdf)][[code](https://github.com/sahil00199/KYC)]   
   with *S Shah, S Chakrabarti, S Sarawagi*   
   Prediction service APIs are expected to cater millions of client distributions. Adapting to each client is not scalable for computation and storage concerns. 
   We propose an on-the-fly adaptation technique using client side corpus signature.    
