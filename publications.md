@@ -9,7 +9,7 @@ An example of domain shift in practice is when an entity recognizer trained on n
 
 My research has three broad themes below. 
 
-* **Generaliation**: Algorithms for training domain robust models: domain generalization. Can we exploit the natural variation between train domains and zero-shot generalize to unseen domains? [[ICLR18](#crossgrad)][[ICML20](#csd)][[ICML20a](#dg_for_dr)][[CGD21](#cgd)]
+* **Generaliation**: Algorithms for training domain robust models: domain generalization. Can we exploit the natural variation between train domains and zero-shot generalize to unseen domains? [[ICLR18](#crossgrad)][[ICML20](#csd)][[ICML20a](#dg_for_dr)][[NeurIPS21](#gi)][[CGD21](#cgd)]
 * **Adaptation**: Neither (heavily-subscribed) service models nor (hardware-deficient) clients can afford standard fine-tuning. Can we adapt on the fly without parameter fine-tuning or labeled data? [[ACL19](#srcsel)] [[EMNLP20](#topicsig)]
 * **Assessment**: How can we declare or predict test time failures? [[NeurIPS21](#accsurf)]
 
@@ -19,11 +19,11 @@ Check [Google Scholar](https://scholar.google.co.in/citations?user=DQddccYAAAAJ)
   *Under review* [[pdf](https://arxiv.org/pdf/2110.02619.pdf)]   
   with *P Netrapalli*, *S Sarawagi*   
   When train group sizes are highly disproportionate, how can we train such that we generalize well to all groups irrespective of their training sizes? We found that by just focussing the training on the groups that improve performance on other groups as well as on the self (common good) yield better group robustness.   
-<a name="accsurf"></a>
+<a name="gi"></a>
 * **Training for the Future: A Simple Gradient Interpolation Loss to Generalize Along Time**.  
   **NeurIPS 2021** [[pdf](https://openreview.net/pdf?id=U7SBcmRf65)][[code](https://github.com/anshuln/Training-for-the-Future)]  
   with *A Nasery, S Thakur, A De, S Sarawagi*  
-How can prepare models for future by training on past data? Standard approaches overfit on past and fail to extrapolate. We proposed to parameterize the predictor on time and regularize its dependence on time to avoid overfitting on past data.     
+How can we prepare models for future by training on past data? Standard approaches overfit on past and fail to extrapolate to future. We proposed to parameterize the predictor on time and regularized its dependence on time to avoid overfitting on past data.     
 <a name="accsurf"></a>
 * **Active Assessment of Prediction Services as Accuracy Surface Over Attribute Combinations**.  
   **NeurIPS 2021** [[pdf](https://arxiv.org/pdf/2108.06514.pdf)][[code](https://github.com/vihari/AAA)][[slides](https://docs.google.com/presentation/d/1cKjO5ROhr-PN_rwb0VTqKTye_ZKpW4Yy8XxX_Hz6CME/edit?usp=sharing)]  
