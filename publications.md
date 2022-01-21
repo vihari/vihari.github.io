@@ -9,14 +9,14 @@ An example of domain shift in practice is when an entity recognizer trained on n
 
 My research has three broad themes below. 
 
-* **Generaliation**: Algorithms for training domain robust models: domain generalization. Can we exploit the natural variation between train domains and zero-shot generalize to unseen domains? [[ICLR18](#crossgrad)][[ICML20](#csd)][[ICML20a](#dg_for_dr)][[NeurIPS21](#gi)][[CGD21](#cgd)]
+* **Generaliation**: Algorithms for training domain robust models: domain generalization. Can we exploit the natural variation between train domains and zero-shot generalize to unseen domains? [[ICLR18](#crossgrad)][[ICML20](#csd)][[ICML20a](#dg_for_dr)][[NeurIPS21](#gi)][[ICLR22](#cgd)]
 * **Adaptation**: Neither (heavily-subscribed) service models nor (hardware-deficient) clients can afford standard fine-tuning. Can we adapt on the fly without parameter fine-tuning or labeled data? [[ACL19](#srcsel)] [[EMNLP20](#topicsig)]
 * **Assessment**: How can we declare or predict test time failures? [[NeurIPS21](#accsurf)]
 
 Check [Google Scholar](https://scholar.google.co.in/citations?user=DQddccYAAAAJ) for an exhaustive list of publications.  
 <a name="cgd"></a>
 * **Focus on the Common Good: Group Distributional Robustness Follows**.   
-  *Under review* [[pdf](https://arxiv.org/pdf/2110.02619.pdf)]   
+  **ICLR 2022** [[pdf](https://arxiv.org/pdf/2110.02619.pdf)]   
   with *P Netrapalli*, *S Sarawagi*   
   When train group sizes are highly disproportionate, how can we train such that we generalize well to all groups irrespective of their training sizes? We found that by just focussing the training on the groups that improve performance on other groups as well as on the self (common good) yield better group robustness.   
 <a name="gi"></a>
