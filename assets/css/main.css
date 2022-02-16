@@ -126,7 +126,7 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background-color: {{ site.navbar-col | default: "#F5F5F5" }};
+  background-color: {{ site.navbar-col | default: "white" }};
   border-bottom: 1px solid {{ site.navbar-border-col | default: "#EAEAEA" }};
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-img %}
@@ -225,8 +225,10 @@ img {
 
 @media (min-width: 768px) {
   .navbar-custom {
-    padding-top: 1.25rem;
-    padding-bottom: 1.25rem;
+    padding-top: 1.1rem;
+    padding-bottom: 1.1rem;
+    margin: auto;
+    max-width: 800px;
   }
 
   .navbar-custom .navbar-brand-logo {
