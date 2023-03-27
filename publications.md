@@ -13,7 +13,13 @@ My research has three broad themes below.
 * **Adaptation**: Neither (heavily-subscribed) service models nor (hardware-deficient) clients can afford standard fine-tuning. Can we adapt on the fly without parameter fine-tuning or labeled data? [[ACL19](#srcsel)] [[EMNLP20](#topicsig)]
 * **Assessment**: How can we declare or predict test time failures? [[NeurIPS21](#accsurf)]
 
-Check [Google Scholar](https://scholar.google.co.in/citations?user=DQddccYAAAAJ) for an exhaustive list of publications.  
+Check [Google Scholar](https://scholar.google.co.in/citations?user=DQddccYAAAAJ) for an exhaustive list of publications. 
+
+* **Robust Learning from Explanations**   
+  Preprint [[pdf](https://arxiv.org/pdf/2303.06419.pdf)].  
+  with *J Heo, M Wicker, A Weller*.    
+  Explanations are indispensable for avoiding learning of nuisance features or for label efficiency. 
+  We studied robustness (such as adversarial or certified-robustness learning) methods for learning from explanation constraints and found them to consistently and drastically out-perform existing methods that regularise using an interpretability tool.
 <a name="cgd"></a>
 * **Focus on the Common Good: Group Distributional Robustness Follows**.   
   **ICLR 2022** [[pdf](https://arxiv.org/pdf/2110.02619.pdf)]   
