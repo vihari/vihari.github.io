@@ -21,8 +21,12 @@ Check [Google Scholar](https://scholar.google.co.in/citations?user=DQddccYAAAAJ)
   Explanations are indispensable for avoiding learning of nuisance features or for label efficiency. 
   We studied robustness (such as adversarial or certified-robustness learning) methods for learning from explanation constraints and found them to consistently and drastically out-perform existing methods that regularise using an interpretability tool.
 <a name="cgd"></a>
+* **Human-in-the-loop Mixup**   
+  **UAI 2023** [[pdf](https://arxiv.org/pdf/2211.01202.pdf)]   
+  with *K Collins, U Bhatt, W Liu, I Sucholutsky, B Love, A Weller*   
+  Synthetic labels used in mixup are not consistently aligned with human perceptual judgments; relabeling examples, with humans-in-the-loop and leveraging human uncertainty information, holds promise to increase downstream model reliability.
 * **Focus on the Common Good: Group Distributional Robustness Follows**.   
-  **ICLR 2022** [[pdf](https://arxiv.org/pdf/2110.02619.pdf)]   
+  **ICLR 2022** [[pdf](https://arxiv.org/pdf/2110.02619.pdf)] [[code](https://github.com/vihari/CGD/)][[slides](https://docs.google.com/presentation/d/1ZFkwx6QxZgLD6X0ld7FAi6bJUe90Pif0ZGTc9A3pOeM/edit?usp=drive_link)]   
   with *P Netrapalli*, *S Sarawagi*   
   When train group sizes are highly disproportionate, how can we train such that we generalize well to all groups irrespective of their training sizes? We found that by just focussing the training on the groups that improve performance on other groups as well as on the self (common good) yield better group robustness.   
 <a name="gi"></a>
