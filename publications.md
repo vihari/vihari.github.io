@@ -15,8 +15,8 @@ My research has three broad themes below.
 
 Check [Google Scholar](https://scholar.google.co.in/citations?user=DQddccYAAAAJ) for an exhaustive list of publications. 
 
-* **Robust Learning from Explanations**   
-  Preprint [[pdf](https://arxiv.org/pdf/2303.06419.pdf)].  
+* **Use Perturbations when Learning from Explanations**   
+  NeurIPS 2023 [[pdf](https://arxiv.org/pdf/2303.06419.pdf)].  
   with *J Heo, M Wicker, A Weller*.    
   Explanations are indispensable for avoiding learning of nuisance features or for label efficiency. 
   We studied robustness (such as adversarial or certified-robustness learning) methods for learning from explanation constraints and found them to consistently and drastically out-perform existing methods that regularise using an interpretability tool.
