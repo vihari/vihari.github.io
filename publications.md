@@ -4,6 +4,11 @@ title: Publications
 ---
 
 ### Research Theme
+I am interested in building reliable learning systems. Lack of reliability in deployed systems arises (majorly) due to misspecification of the task. I research on non-standard training of machines in order to better define the task. During my PhD, I explored using meta-data, more specifically exploiting per-example annotation identifying the environment or the domain, in a problem setting called domain generalization [[ICLR18](#crossgrad)][[ICML20](#csd)][[ICML20a](#dg_for_dr)][[NeurIPS21](#gi)][[ICLR22](#cgd)] along with its related problems of domain adaptation ([[ACL19](#srcsel)], [[EMNLP20](#topicsig)]) and evaluation  ([[NeurIPS21](#accsurf)]). 
+
+After PhD, again with the intent of building reliable systems, I have been developing algorithms that enable humans to explain (to a machine) what causes a label. So far, we studied supervising using local (i.e. per-example) explanations [[NeurIPS23](#mlx)] and are making progress toward concept-based explanations [[Preprint](#uace)]. 
+
+<!--
 I am interested in studying the performance of Machine Learning systems beyond well-represented training distributions. Towards this objective, I work on generalization, evaluation and adaptation aspects of ML algorithms on unseen distributions.
 An example of domain shift in practice is when an entity recognizer trained on news articles is used on emails or when an Automatic Speech Recognition engine trained on native-english speaker is deployed on foreign speakers. 
 
@@ -12,9 +17,16 @@ My research has three broad themes below.
 * **Generaliation**: Algorithms for training domain robust models: domain generalization. Can we exploit the natural variation between train domains and zero-shot generalize to unseen domains? [[ICLR18](#crossgrad)][[ICML20](#csd)][[ICML20a](#dg_for_dr)][[NeurIPS21](#gi)][[ICLR22](#cgd)]
 * **Adaptation**: Neither (heavily-subscribed) service models nor (hardware-deficient) clients can afford standard fine-tuning. Can we adapt on the fly without parameter fine-tuning or labeled data? [[ACL19](#srcsel)] [[EMNLP20](#topicsig)]
 * **Assessment**: How can we declare or predict test time failures? [[NeurIPS21](#accsurf)]
+--> 
 
 Check [Google Scholar](https://scholar.google.co.in/citations?user=DQddccYAAAAJ) for an exhaustive list of publications. 
 
+<a name="uace"></a>
+* **Estimation of Concept Explanations Should be Uncertainty Aware**   
+  *Under review* [[forum](https://openreview.net/forum?id=WqsYs05Ri7)].  
+  with *J Heo, S Singh, A Weller*.    
+Uncertainty aware estimation improves reliability of concept explanations
+<a name="mlx"></a>
 * **Use Perturbations when Learning from Explanations**   
   **NeurIPS 2023** [[pdf](https://arxiv.org/pdf/2303.06419.pdf)].  
   with *J Heo, M Wicker, A Weller*.    
