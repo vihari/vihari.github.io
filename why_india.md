@@ -70,8 +70,6 @@ Unlike overseas PhD labs, one can easily visit, work, interact and explore what 
 I spent almost an year at IITB before deciding to join as a student; such a well informed choice is unlikely to go south.
 I have seen instances where Indian students in the US finding it hard because they do not like the research environment or because they are unable to find a suitable advisor.
 
-In the least, it is relatively easier to approach and relate with any current or past students of the PI and find out if the work culture suits you. 
-
 <a id="org0cd347b"></a>
 
 ## Matters of money, culture and climate.
