@@ -39,7 +39,6 @@ Uncertainty aware estimation improves reliability of concept explanations
   Synthetic labels used in mixup are not consistently aligned with human perceptual judgments; relabeling examples, with humans-in-the-loop and leveraging human uncertainty information, holds promise to increase downstream model reliability.
 * **Robustness, Evaluation and Adaptation of Machine Learning Models in the Wild**    
   PhD Thesis. [[arxiv](https://arxiv.org/abs/2303.02781)]
-  
 * **Focus on the Common Good: Group Distributional Robustness Follows**.   
   **ICLR 2022** [[pdf](https://arxiv.org/pdf/2110.02619.pdf)] [[code](https://github.com/vihari/CGD/)][[slides](https://docs.google.com/presentation/d/1ZFkwx6QxZgLD6X0ld7FAi6bJUe90Pif0ZGTc9A3pOeM/edit?usp=drive_link)]   
   with *P Netrapalli*, *S Sarawagi*   
