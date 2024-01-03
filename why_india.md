@@ -1,3 +1,8 @@
+---
+layout: blog
+title: Grass is just as green on our side! 
+---
+
 **TL;DR**. I had applied to be a grad student with some of the top schools in the US four times between 2013-2018, and did not make it.
 I refused to enroll as a PhD student in India because I was not well-informed, but I finally did in 2019 and it worked out really well.
 The intent of this document is to better inform the new generation of prospective PhDs about higher studies in India.
