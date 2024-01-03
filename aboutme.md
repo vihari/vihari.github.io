@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-I am a PhD student with <a href="https://www.cse.iitb.ac.in/">Computer Science department</a> at IIT Bombay advised by <a href="https://www.cse.iitb.ac.in/~sunita/">Prof. Sunita Sarawagi</a> and <a href="https://www.cse.iitb.ac.in/~soumen/">Prof. Soumen Chakrabarty</a>. 
+I am a PhD student with <a href="https://www.cse.iitb.ac.in/">Computer Science department</a> at IIT Bombay advised by <a href="https://www.cse.iitb.ac.in/~sunita/">Prof. Sunita Sarawagi</a> and <a href="https://www.cse.iitb.ac.in/~soumen/">Prof. Soumen Chakrabarti</a>. 
 Before joining IIT Bombay, I had spent wonderful two years as a research member staff at <a herf="https://amuselabs.com/">Amuse Labs</a> contributing features to a digital archival project called <a href="https://epadd.stanford.edu/">ePADD</a>. 
 I graduated with computer science majors from <a href="http://iitmandi.ac.in/">IIT Mandi</a> where it all started :). 
 I work in the area of Applied Machine Learning with emphasis on problems arising due to domain shifts. See Research Theme for an elaborate version. 
