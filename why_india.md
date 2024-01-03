@@ -44,23 +44,21 @@ I had a terrific PhD experience at IIT Bombay, reasons below. The following are 
 If you haven't already noticed, the PhD pool in India (at least in Computer Science) is very small. Number of strong PhDs is even smaller.
 What this means is awesome Supervisor-PhD ratio. I used to meet with my supervisors very often. They were just a door-knock away (leaving aside the crazy COVID times).
 I had the pleasure of learning directly from the masters of the art both about life and science. My decision to enroll as a PhD student in 2019 was mostly influenced by this.
-Where else would a PhD get such attention from well-accomplished researchers?
-
+Where else would a PhD get such attention from well-accomplished researchers? That said, attention and involvement of your supervisor is not always guaranteed. Please research well before you join, refer [See and tell](#org3bae976) section below. 
 
 <a id="org23793a4"></a>
 
 ## Self-paced research.
 
 The stress to publish is relatively low. The pace of research is determined by the student most of the time.
-An advisor usually will not be breathing down your neck to publish because a PhD is not paid from their grants unlike in the US. PhDs are paid by MHRD (i.e. Indian government) directly.
+An advisor usually will not be breathing down your neck to publish because a PhD is not paid from their grants unlike in the US. PhDs are paid by MHRD (i.e. Indian government) directly. However, pace of research is also largely dependent on your supervisor, please see [See and tell](#org3bae976) below, i.e. know before you join. 
 
 
 <a id="org32a4257"></a>
 
 ## Resume.
 
-If you're one of those who fear PhD from India may not look so strongly on your profile like the way I was, there are some workarounds.
-During my PhD, I was awarded the Google PhD fellowship, Prime Minister's fellowship for Doctoral Research, best thesis awards, and published in top-tier venues.
+If you're one of those who fear PhD from India may not look so strongly on your profile like the way I was, there are some workarounds. Thesis awards, top-tier publications, PhD fellowships and good recommendation letters can all help highlight you as a researcher.
 I believe it is easier to stand-out among a relatively small pool of PhD students in India and compensate for any affiliation-related weakness in your profile.
 
 
@@ -72,6 +70,7 @@ Unlike overseas PhD labs, one can easily visit, work, interact and explore what 
 I spent almost an year at IITB before deciding to join as a student; such a well informed choice is unlikely to go south.
 I have seen instances where Indian students in the US finding it hard because they do not like the research environment or because they are unable to find a suitable advisor.
 
+In the least, it is relatively easier to approach and relate with any current or past students of the PI and find out if the work culture suits you. 
 
 <a id="org0cd347b"></a>
 
@@ -141,7 +140,7 @@ Several universities overseas have facilities to help students with their writin
 <a id="cohort"></a>
 
 ## Small cohort related
-
+In direct relation to the merit pointed above: [PhD supervision](#org3a543f3), small cohort of PhD students also means narrower perspective and unhoned technical communication skills. Also, you may miss out on the joys of camaraderie with the shared passion and interests. There isn't much that can be done to offset this disadvantage. You gain some, you lose some.  
 
 <a id="org34c10be"></a>
 
@@ -193,4 +192,4 @@ Translation: <https://www.filmyquotes.com/movies/1663>
 <a id="org46d0418"></a>
 
 # Acknowledgments
-
+I sincerely thank the feedback and discussions with the current and past PhD students of IIT Bombay. The list includes Anjali Sairaman, Vaibhav Krishan, Ayush Maheshwari, Abhijeet Awasthi, Lokesh, Bolanath, Shantanu Kulkarni, Settaluri Sravanthi. 
