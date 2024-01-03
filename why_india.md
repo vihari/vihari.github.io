@@ -167,7 +167,7 @@ Translation: <https://www.filmyquotes.com/movies/1663>
 
 > Sometimes we choose a difficult path only because &#x2026; we feel that to attain important things we need to choose a difficult path &#x2026; we think that it's important to punish ourselves &#x2026; but why can't we choose a simple path &#x2026; what's wrong with that &#x2026; especially when we are not ready to face that difficult path
 
-**Limitations of this note**.   
+## Limitations of this note
 
 -   Many of the above stated pros do not apply or do not matter if you chose a wrong supervisor. Research well about the person before signing up.
 -   Things are different in Sciences. I have written from the perspective of a Computer Science PhD student. I believe research facilities in sciences matter a lot, and not so much in our field. If you are a Prospective Science PhD, please take these with a pinch of salt.
