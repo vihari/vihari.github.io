@@ -1,3 +1,6 @@
+**TL;DR**. I had applied to be a grad student with some of the top schools in the US four times between 2013-2018, and did not make it.
+I refused to enroll as a PhD student in India because I was not well-informed, but I finally did in 2019 and it worked out really well.
+The intent of this document is to better inform the new generation of prospective PhDs about higher studies in India.
 
 # Table of Contents
 
@@ -18,10 +21,6 @@
     4.  [Clear Future Goals.](#org02e3ca0)
 3.  [Conclusion](#org0b72e12)
 4.  [Acknowledgments](#org46d0418)
-
-**TL;DR**. I had applied to be a grad student with some of the top schools in the US four times between 2013-2018, and did not make it.
-I refused to enroll as a PhD student in India because I was not well-informed, but I finally did in 2019 and it worked out really well.
-The intent of this document is to better inform the new generation of prospective PhDs about higher studies in India.
 
 
 <a id="orgadff438"></a>
