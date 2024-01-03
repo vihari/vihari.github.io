@@ -192,4 +192,4 @@ Translation: <https://www.filmyquotes.com/movies/1663>
 <a id="org46d0418"></a>
 
 # Acknowledgments
-I sincerely thank the feedback and discussions with the current and past PhD students of IIT Bombay. The list includes Anjali Sairaman, Vaibhav Krishan, Ayush Maheshwari, Abhijeet Awasthi, Lokesh, Bolanath, Shantanu Kulkarni, Settaluri Sravanthi. 
+I sincerely thank the feedback and discussions with the current and past PhD students of IIT Bombay. The list includes Anjali Sairaman, Vaibhav Krishan, Ayush Maheshwari, Abhijeet Awasthi, Lokesh, Bolanath, Shantanu Kulkarni, Settaluri Sravanthi, Rishabh Kumar. 
