@@ -20,6 +20,7 @@ The intent of this document is to better inform the new generation of prospectiv
     7.  [Grounded perspective.](#orgbd92f4b)
     8.  [Housing, Security, Food and Medical.](#orgd62b2c3)
     9.  [Small community.](#org1002e30)
+    10. [Teaching duties](#ta)
 2.  [Drawbacks](#org2ca3812)
     1.  [Communication & Presentation skills.](#orgd4893c5)
     2.  [Strong Conviction.](#org34c10be)
@@ -98,6 +99,7 @@ Campuses in India (like that of IITB) are secluded from the outside world. But o
 The complex, chaotic, messy Mumbai always humbled me and kept me grounded, and reminded me of the real complex problems that are far fetched from mainstream AI research.
 People of Mumbai, on the other hand, taught me to keep the spirits high even amidst all the troubles. 
 
+You may even get to make an impact on India-specific problems depending on your PI. Some such awesome current and past projects that I am aware are: [Hindi wordnet](https://www.cfilt.iitb.ac.in/wordnet/webhwn/), [BharatGPT](https://corover.ai/bharatgpt/), [AI4Bharat](https://ai4bharat.iitm.ac.in/). 
 
 <a id="orgd62b2c3"></a>
 
@@ -116,6 +118,10 @@ The jubilant night life, compassionate hostel-mates, devil-may-care campus, nigh
 
 Researchers in India tend to know each other well. So, I found it easier to get good internships or could just shoot a mail to any researcher in India and get response.
 
+<a id="ta"></a>
+
+## Teaching duties
+Comparatively, expected teaching duties (at IIT Bombay at least) are low. Only eight hours of teaching duties are expected per week, which in practice is even lower. 
 
 <a id="org2ca3812"></a>
 
@@ -131,6 +137,10 @@ You may have to watch out and proactively make up for the following drawbacks.
 A researcher's success hugely depends on how well they communicate. For various reasons, the PhD programs in India are not structured to test, push and hone the technical presentation skills of their students (at IITs and IISc as far as I know).
 The student must exercise special care to push themselves to attend, present, and seek feedback.
 Several universities overseas have facilities to help students with their writing and presentations such as through one-on-one sessions with language professionals. 
+
+<a id="cohort"></a>
+
+## Small cohort related
 
 
 <a id="org34c10be"></a>
@@ -176,6 +186,7 @@ Translation: <https://www.filmyquotes.com/movies/1663>
 ## Limitations of this note
 
 -   Many of the above stated pros do not apply or do not matter if you chose a wrong supervisor. Research well about the person before signing up.
+- The pros and cons discussed may not directly apply to all the institutes in India, say for newer IITs. Exercise caution if you are thinking about institutions other than the five old IITs, ISI or IISc.  
 -   Things are different in Sciences. I have written from the perspective of a Computer Science PhD student. I believe research facilities in sciences matter a lot, and not so much in our field. If you are a Prospective Science PhD, please take these with a pinch of salt.
 
 
