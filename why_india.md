@@ -132,7 +132,7 @@ You may have to watch out and proactively make up for the following drawbacks.
 ## Communication & Presentation skills.
 
 A researcher's success hugely depends on how well they communicate. For various reasons, the PhD programs in India are not structured to test, push and hone the technical presentation skills of their students (at IITs and IISc as far as I know).
-The student must exercise special care to push themselves to attend, present, and seek feedback.
+The student must exercise special care to push themselves to attend and present talks, practice technical writing and seek feedback.
 Several universities overseas have facilities to help students with their writing and presentations such as through one-on-one sessions with language professionals. 
 
 <a id="cohort"></a>
@@ -171,7 +171,7 @@ Having clear, albeit rough, career goals can help in this regard. Look closely a
 # Conclusion
 
 I have hopefully communicated what one can achieve by staying back. I am not advocating in anyway (for any moral, ethical or otherwise reason) to pursue a PhD in India. 
-But before you sign-up for a seemingly mediocre PhD position in the US, please consider very carefully if you would do better by staying back.
+But before you sign-up for a PhD position in the US, please consider very carefully if you would do better by staying back.
 This dialogue from Shahrukh Khan from Dear Zindagi aptly puts it.
 
 > Kabhi kabhi hum mushkil rasta sirf is liye chunte hai, kyun ki humein lagta hai, important cheezein paane ke liye humein mushkil rasta apnana chahiye. Apne aap ko punish karna bahut zaroori samajhte hai. But why? Aasaan rasta kyun nahi chun sakte? Kya burai hai us mein? Khaas karke jab us mushkil ka saamna karne ke liye hum taiyaar hi nahi hai!
@@ -190,4 +190,4 @@ Translation: <https://www.filmyquotes.com/movies/1663>
 <a id="org46d0418"></a>
 
 # Acknowledgments
-I sincerely thank the feedback and discussions with the current and past PhD students of IIT Bombay. The list includes Anjali Sairaman, Vaibhav Krishan, Ayush Maheshwari, Abhijeet Awasthi, Lokesh, Bolanath, Shantanu Kulkarni, Settaluri Sravanthi, Rishabh Kumar. 
+I sincerely thank the feedback and discussions with the current and past PhD students and faculty of IIT Bombay. The list of people who contributed includes Anjali Sairaman, Vaibhav Krishan, Sabyasachi Ghosh, Ayush Maheshwari, Abhijeet Awasthi, Lokesh N, Bolanath, Shantanu Kulkarni, Settaluri Sravanthi, Rishabh Kumar. 
