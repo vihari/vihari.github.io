@@ -138,7 +138,7 @@ Several universities overseas have facilities to help students with their writin
 <a id="cohort"></a>
 
 ## Small cohort related
-In direct relation to the merit pointed above: [PhD supervision](#org3a543f3), small cohort of PhD students also means narrower perspective and unhoned technical communication skills. Also, you may miss out on the joys of camaraderie with the shared passion and interests. There isn't much that can be done to offset this disadvantage. You gain some, you lose some.  
+In direct relation to the merit pointed above: [PhD supervision](#org3a543f3), small cohort of PhD students also mean narrower perspective and unhoned technical communication skills. Moreover, you may miss out on the joys of camaraderie with the shared passion and interests. There isn't much that can be done to offset this disadvantage. You gain some, you lose some.  
 
 <a id="org34c10be"></a>
 
