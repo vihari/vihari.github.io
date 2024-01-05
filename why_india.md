@@ -172,4 +172,4 @@ Translation: <https://www.filmyquotes.com/movies/1663>
 <a id="org46d0418"></a>
 
 # Acknowledgements
-I sincerely thank the feedback and discussions with the current and past PhD students and faculty of IIT Bombay. The list of people who contributed includes Anjali Sairaman, Vaibhav Krishan, Sabyasachi Ghosh, Ayush Maheshwari, Abhijeet Awasthi, Lokesh N, Bolanath, Shantanu Kulkarni, Settaluri Sravanthi, Rishabh Kumar. 
+I sincerely thank the feedback and discussions with the current and past PhD students and faculty of IIT Bombay. The list of people who contributed by provided feedback includes Anjali Sairaman, Vaibhav Krishan, Sabyasachi Ghosh, Preethi Jyothi, Danish Pruthi, Ayush Maheshwari, Abhijeet Awasthi, Lokesh N, Bolanath, Shantanu Kulkarni, Settaluri Sravanthi, Rishabh Kumar. 
