@@ -21,9 +21,10 @@ layout: blog
     10. [Teaching duties](#ta)
 2.  [Drawbacks](#org2ca3812)
     1.  [Communication & Presentation skills.](#orgd4893c5)
-    2.  [Strong Conviction.](#org34c10be)
-    3.  [Networking](#orgd91c00d)
-    4.  [Clear Future Goals.](#org02e3ca0)
+    2.  [Small cohort related](#cohort)
+    3.  [Strong Conviction.](#org34c10be)
+    4.  [Networking](#orgd91c00d)
+    5.  [Clear Future Goals.](#org02e3ca0)
 3.  [Conclusion and Limitations](#org0b72e12)
 4.  [Acknowledgments](#org46d0418)
 
