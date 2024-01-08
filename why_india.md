@@ -69,7 +69,7 @@ Unlike overseas PhD labs, one can easily visit, work, interact and explore what 
 This is somewhat self-explanatory. I did not have to face any issues due to climate or cultural shifts or stress about financial matters so much (that is assuming you’re fine with around 35,000 Rs stipend) during my PhD. I had a wonderful time camping in the Sahyadri hills, eating good food (IITB canteens are the best I have seen), volunteering at Isha yoga events, celebrating every festival grandly, and never having to endure extreme weather. I was close to my family, friends and community, which helped me sail through my PhD without hurting my sanity. Needless to say, I didn’t have to worry about a VISA expiring or a mounting debt.   
 *Clarification regarding debt:* Because US PhD admission is highly competitive, some (including me) consider doing a masters in the US first and then transition to a PhD. Path to PhD admit through masters accrues debt. This is what I meant.   
 
-Moreover, there are many PhD fellowship opportunities available, some examples are PMRF, Google PhD Fellowhip, TCS, Qualcomm, etc. I never had to bother much about funding my conference trips. If you have a paper at the the conference, it is not hard to find funding through travel grants from generous companies like Microsoft/Google or through institute or department. 
+Moreover, there are many PhD fellowship opportunities available, some examples are Google PhD Fellowhip, TCS, Qualcomm, Cisco etc. I never had to bother much about funding my conference trips. If you have a paper at the the conference, it is not hard to find funding through travel grants from generous companies like Microsoft/Google or through institute or department. 
 
 <a id="orga8e19fd"></a>
 
