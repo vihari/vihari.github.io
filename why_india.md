@@ -84,7 +84,7 @@ If you have a bachelor's from one of the IITs like me, it is easy to enrol again
 
 Campuses in India (like that of IITB) are secluded from the outside world. But once we step outside, the scale and intensity of Indian societal problems (such as poor standard of living) are right on face. The complex, chaotic, messy Mumbai always humbled and kept me grounded, and reminded me of the real complex problems that are far-fetched from mainstream AI research. The people of Mumbai, on the other hand, taught me to keep my spirits high even amidst all the troubles.
 
-You may even get to make an impact on India-specific problems depending on your PI. Some such awesome current and past projects that I am aware of are [Hindi Wordnet](https://www.cfilt.iitb.ac.in/wordnet/webhwn/), [BharatGPT](https://corover.ai/bharatgpt/), [AI4Bharat](https://ai4bharat.iitm.ac.in/). 
+You may even get to make an impact on India-specific problems depending on your PI. Some such awesome current and past projects that I am aware of are [Hindi Wordnet](https://www.cfilt.iitb.ac.in/wordnet/webhwn/), [BharatGPT](https://corover.ai/bharatgpt/), [AI4Bharat](https://ai4bharat.iitm.ac.in/), [Water-resource management](https://www.cse.iitb.ac.in/~damani/). 
 
 <a id="orgd62b2c3"></a>
 
