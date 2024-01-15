@@ -4,7 +4,7 @@ layout: blog
 
 <h2>Grass is just as green on our side!</h2>
 
-**TL; DR**. I applied to be a grad student with some of the top schools in the US four times between 2013-2018 and did not make it. I refused to enrol as a PhD student in India because I was ill-informed, but I finally did in 2019 and had a great experience. This document intends to better inform the new generation of prospective PhDs about higher studies in India.
+**TL; DR**. I refused to enrol as a PhD student in India for many years because I was ill-informed, but I finally did in 2019 and had a great experience. This document intends to better inform the new generation of prospective PhDs about higher studies in India.
 
 # Table of Contents
 
