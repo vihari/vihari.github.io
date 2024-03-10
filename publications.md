@@ -24,7 +24,7 @@ Check [Google Scholar](https://scholar.google.co.in/citations?user=DQddccYAAAAJ)
 <a name="uace"></a>
 * **Estimation of Concept Explanations Should be Uncertainty Aware**   
   *Under review* [[forum](https://openreview.net/forum?id=WqsYs05Ri7)].  
-  with *J Heo, S Singh, A Weller*.    
+  with *J Heo, K Collins, S Singh, A Weller*.    
 Uncertainty aware estimation improves reliability of concept explanations
 <a name="mlx"></a>
 * **Use Perturbations when Learning from Explanations**   
