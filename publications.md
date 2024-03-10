@@ -4,7 +4,7 @@ title: Publications
 ---
 
 ### Research Theme
-I am interested in building reliable learning systems. Lack of reliability in deployed systems arises (majorly) due to misspecification of the task. I research on non-standard training of machines in order to better define the task. During my PhD, I explored using meta-data, more specifically exploiting per-example annotation identifying the environment or the domain, in a problem setting called domain generalization [[ICLR18](#crossgrad)][[ICML20](#csd)][[ICML20a](#dg_for_dr)][[NeurIPS21](#gi)][[ICLR22](#cgd)] along with its related problems of domain adaptation ([[ACL19](#srcsel)], [[EMNLP20](#topicsig)]) and evaluation  ([[NeurIPS21](#accsurf)]). 
+I am interested in building reliable learning systems. Lack of reliability in deployed systems arises (majorly) due to misspecification of the task. I research on alternate forms of supervision (beyond example-label demonstrations) to specify the classification task better. During PhD, I explored leveraging meta-data identifying the source domain of an example in a problem known as domain generalization [[ICLR18](#crossgrad)][[ICML20](#csd)][[ICML20a](#dg_for_dr)][[NeurIPS21](#gi)][[ICLR22](#cgd)]. I also explored the related problems of domain adaptation ([[ACL19](#srcsel)], [[EMNLP20](#topicsig)]) and stratified evaluation  ([[NeurIPS21](#accsurf)]). 
 
 After PhD, again with the intent of building reliable systems, I have been developing algorithms that enable humans to explain (to a machine) what causes a label. So far, we studied supervising using local (i.e. example-level) explanations [[NeurIPS23](#mlx)] and are making progress toward global (i.e. model-level) concept-based explanations [[Preprint](#uace)]. 
 
